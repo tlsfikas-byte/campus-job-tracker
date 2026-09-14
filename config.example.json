@@ -1,0 +1,5 @@
+{
+  "session_cookie": "PASTE_YOUR_SESSION_COOKIE_VALUE_HERE",
+  "ntfy_topic": "choose-a-secret-unguessable-topic-name",
+  "ntfy_server": "https://ntfy.sh"
+}
