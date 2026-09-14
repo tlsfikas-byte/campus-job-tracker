@@ -1,13 +1,13 @@
 {
-  "1003": {
-    "category": "Athletic",
-    "department": "Athletics",
-    "hours_per_week": "10-12",
-    "job_id": "1003",
+  "1027": {
+    "category": "Tutor",
+    "department": "Geography",
+    "hours_per_week": "6",
+    "job_id": "1027",
     "starting_rate": "$16.70",
     "term": "Current Academic Year",
-    "title": "Student Manager for Hockey Operations",
-    "url": "https://toolbox.colgate.edu/studentemployment/jobs/1003"
+    "title": "GIS Student Tutor",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/1027"
   },
   "1205": {
     "category": "Research/Laboratory",
@@ -148,6 +148,16 @@
     "term": "Current Academic Year",
     "title": "Greek/Latin Tutor in CLASSICS",
     "url": "https://toolbox.colgate.edu/studentemployment/jobs/903"
+  },
+  "931": {
+    "category": "Other",
+    "department": "Information Technology",
+    "hours_per_week": "10",
+    "job_id": "931",
+    "starting_rate": "$16.75",
+    "term": "Current Academic Year",
+    "title": "Vis Lab Presenter",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/931"
   },
   "961": {
     "category": "Other",
