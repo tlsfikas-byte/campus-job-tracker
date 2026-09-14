@@ -31,7 +31,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # -f because these are gitignored for local runs, but Actions needs to persist them
-          git add -f jobs_state.json alert_state.json watcher.log
+          # -f because these are gitignored for local runs, but Actions needs to persist them.
+          # Only add files that actually exist — alert_state.json, for example, is only
+          # created the first time an alert fires, so it won't exist on early runs.
+          for f in jobs_state.json alert_state.json watcher.log; do
+            if [ -f "$f" ]; then
+              git add -f "$f"
+            fi
+          done
           git diff --cached --quiet || git commit -m "Update job snapshot [skip ci]"
           git push
