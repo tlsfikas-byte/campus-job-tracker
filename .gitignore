@@ -1,0 +1,14 @@
+# Secrets — never commit your real cookie/topic
+config.json
+
+# Local runtime state, not source
+jobs_state.json
+alert_state.json
+watcher.log
+cron.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
