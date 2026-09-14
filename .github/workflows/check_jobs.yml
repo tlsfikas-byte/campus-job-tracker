@@ -1,0 +1,37 @@
+name: Check Colgate jobs
+
+on:
+  workflow_dispatch: {}   # triggered via API call, e.g. from cron-job.org
+
+permissions:
+  contents: write   # needed so the workflow can commit jobs_state.json back
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run job check
+        env:
+          SESSION_COOKIE: ${{ secrets.SESSION_COOKIE }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 check_jobs.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # -f because these are gitignored for local runs, but Actions needs to persist them
+          git add -f jobs_state.json alert_state.json watcher.log
+          git diff --cached --quiet || git commit -m "Update job snapshot [skip ci]"
+          git push
