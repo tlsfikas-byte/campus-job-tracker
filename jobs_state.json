@@ -1,0 +1,172 @@
+{
+  "1003": {
+    "category": "Athletic",
+    "department": "Athletics",
+    "hours_per_week": "10-12",
+    "job_id": "1003",
+    "starting_rate": "$16.70",
+    "term": "Current Academic Year",
+    "title": "Student Manager for Hockey Operations",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/1003"
+  },
+  "1205": {
+    "category": "Research/Laboratory",
+    "department": "Geology",
+    "hours_per_week": "10",
+    "job_id": "1205",
+    "starting_rate": "$16.75",
+    "term": "Current Academic Year",
+    "title": "Planetary Geology Research Assistant",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/1205"
+  },
+  "1326": {
+    "category": "Teaching Assistant",
+    "department": "Geology",
+    "hours_per_week": "5",
+    "job_id": "1326",
+    "starting_rate": "$16.75",
+    "term": "Fall Only",
+    "title": "Geology Lab Section Assistant",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/1326"
+  },
+  "1386": {
+    "category": "Athletic",
+    "department": "Athletics",
+    "hours_per_week": "5-10",
+    "job_id": "1386",
+    "starting_rate": "$16.70",
+    "term": "Current Academic Year",
+    "title": "Colgate Men\u2019s Lacrosse Manager",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/1386"
+  },
+  "143": {
+    "category": "Research/Laboratory",
+    "department": "Geology",
+    "hours_per_week": "5-10",
+    "job_id": "143",
+    "starting_rate": "$16.75",
+    "term": "Fall Only",
+    "title": "Geology Research Assistant",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/143"
+  },
+  "1784": {
+    "category": "Research/Laboratory",
+    "department": "Psychological and Brain Sciences",
+    "hours_per_week": "4-10",
+    "job_id": "1784",
+    "starting_rate": "$16.70",
+    "term": "Current Academic Year",
+    "title": "Research Assistant - PBSC",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/1784"
+  },
+  "193": {
+    "category": "Tutor",
+    "department": "German",
+    "hours_per_week": "varies",
+    "job_id": "193",
+    "starting_rate": "$16.75",
+    "term": "Current Academic Year",
+    "title": "Tutor in German",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/193"
+  },
+  "2004": {
+    "category": "Other",
+    "department": "Mathematics",
+    "hours_per_week": "3-4",
+    "job_id": "2004",
+    "starting_rate": "$16.70",
+    "term": "Fall Only",
+    "title": "Kelley Tatangelo/Math 161 Peer Mentor",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/2004"
+  },
+  "241": {
+    "category": "Other",
+    "department": "Music",
+    "hours_per_week": "variable",
+    "job_id": "241",
+    "starting_rate": "$16.70",
+    "term": "Current Academic Year",
+    "title": "Music-Usher",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/241"
+  },
+  "244": {
+    "category": "Other",
+    "department": "Music",
+    "hours_per_week": "unknown",
+    "job_id": "244",
+    "starting_rate": "$16.70",
+    "term": "Current Academic Year",
+    "title": "Music-Orchestra Librarian",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/244"
+  },
+  "2521": {
+    "category": "Research/Laboratory",
+    "department": "Chemistry",
+    "hours_per_week": "5-6",
+    "job_id": "2521",
+    "starting_rate": "$16.75",
+    "term": "Fall Only",
+    "title": "Research Assistant - Chemistry",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/2521"
+  },
+  "2526": {
+    "category": "Research/Laboratory",
+    "department": "Psychological and Brain Sciences",
+    "hours_per_week": "5-10",
+    "job_id": "2526",
+    "starting_rate": "$16.75",
+    "term": "Fall Only",
+    "title": "Voice transcription in addiction research",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/2526"
+  },
+  "505": {
+    "category": "Office/Administrative",
+    "department": "Admission",
+    "hours_per_week": "25",
+    "job_id": "505",
+    "starting_rate": "$16.70",
+    "term": "Fall Only",
+    "title": "Admission Office Assistant for Holidays and Breaks",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/505"
+  },
+  "782": {
+    "category": "Computer/Technical",
+    "department": "Art",
+    "hours_per_week": "2",
+    "job_id": "782",
+    "starting_rate": "$16.70",
+    "term": "Current Academic Year",
+    "title": "Art Department Student Videographer",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/782"
+  },
+  "903": {
+    "category": "Tutor",
+    "department": "Humanities",
+    "hours_per_week": "4",
+    "job_id": "903",
+    "starting_rate": "$16.70",
+    "term": "Current Academic Year",
+    "title": "Greek/Latin Tutor in CLASSICS",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/903"
+  },
+  "961": {
+    "category": "Other",
+    "department": "Music",
+    "hours_per_week": "Unknown",
+    "job_id": "961",
+    "starting_rate": "$16.70",
+    "term": "Current Academic Year",
+    "title": "Orchestra Program Annotator",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/961"
+  },
+  "962": {
+    "category": "Other",
+    "department": "Music",
+    "hours_per_week": "5",
+    "job_id": "962",
+    "starting_rate": "$16.70",
+    "term": "Current Academic Year",
+    "title": "Orchestra Stage Crew",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/962"
+  }
+}
