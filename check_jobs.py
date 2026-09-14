@@ -258,9 +258,7 @@ def main() -> None:
         sys.exit(0)
 
     # Things are working again — reset cooldowns so a future problem alerts promptly.
-    alert_state = load_alert_state()
-    if alert_state:
-        save_alert_state({})
+    save_alert_state({})
 
     previous_jobs = load_state()
 
