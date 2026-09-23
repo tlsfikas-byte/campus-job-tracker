@@ -19,26 +19,6 @@
     "title": "Kelley Tatangelo/Math 161 Peer Mentor",
     "url": "https://toolbox.colgate.edu/studentemployment/jobs/2004"
   },
-  "241": {
-    "category": "Other",
-    "department": "Music",
-    "hours_per_week": "variable",
-    "job_id": "241",
-    "starting_rate": "$16.70",
-    "term": "Current Academic Year",
-    "title": "Music-Usher",
-    "url": "https://toolbox.colgate.edu/studentemployment/jobs/241"
-  },
-  "244": {
-    "category": "Other",
-    "department": "Music",
-    "hours_per_week": "unknown",
-    "job_id": "244",
-    "starting_rate": "$16.70",
-    "term": "Current Academic Year",
-    "title": "Music-Orchestra Librarian",
-    "url": "https://toolbox.colgate.edu/studentemployment/jobs/244"
-  },
   "360": {
     "category": "Monitor",
     "department": "Art",
@@ -68,25 +48,5 @@
     "term": "Current Academic Year",
     "title": "Greek/Latin Tutor in CLASSICS",
     "url": "https://toolbox.colgate.edu/studentemployment/jobs/903"
-  },
-  "961": {
-    "category": "Other",
-    "department": "Music",
-    "hours_per_week": "Unknown",
-    "job_id": "961",
-    "starting_rate": "$16.70",
-    "term": "Current Academic Year",
-    "title": "Orchestra Program Annotator",
-    "url": "https://toolbox.colgate.edu/studentemployment/jobs/961"
-  },
-  "962": {
-    "category": "Other",
-    "department": "Music",
-    "hours_per_week": "5",
-    "job_id": "962",
-    "starting_rate": "$16.70",
-    "term": "Current Academic Year",
-    "title": "Orchestra Stage Crew",
-    "url": "https://toolbox.colgate.edu/studentemployment/jobs/962"
   }
 }
