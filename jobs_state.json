@@ -1,23 +1,33 @@
 {
-  "1386": {
+  "2529": {
     "category": "Athletic",
     "department": "Athletics",
-    "hours_per_week": "5-10",
-    "job_id": "1386",
+    "hours_per_week": "10-12",
+    "job_id": "2529",
     "starting_rate": "$16.70",
     "term": "Current Academic Year",
-    "title": "Colgate Men\u2019s Lacrosse Manager",
-    "url": "https://toolbox.colgate.edu/studentemployment/jobs/1386"
+    "title": "Student Manager WBB",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/2529"
   },
-  "2004": {
-    "category": "Other",
-    "department": "Mathematics",
-    "hours_per_week": "3-4",
-    "job_id": "2004",
+  "2540": {
+    "category": "Tutor",
+    "department": "Film and Media Studies",
+    "hours_per_week": "3",
+    "job_id": "2540",
     "starting_rate": "$16.70",
-    "term": "Fall Only",
-    "title": "Kelley Tatangelo/Math 161 Peer Mentor",
-    "url": "https://toolbox.colgate.edu/studentemployment/jobs/2004"
+    "term": "Current Academic Year",
+    "title": "FMST Peer Tutor - Film and Media Theory",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/2540"
+  },
+  "2541": {
+    "category": "Tutor",
+    "department": "Film and Media Studies",
+    "hours_per_week": "3",
+    "job_id": "2541",
+    "starting_rate": "$16.70",
+    "term": "Current Academic Year",
+    "title": "FMST Peer Tutor - Film Production",
+    "url": "https://toolbox.colgate.edu/studentemployment/jobs/2541"
   },
   "360": {
     "category": "Monitor",
@@ -29,16 +39,6 @@
     "title": "Sculpture Monitor",
     "url": "https://toolbox.colgate.edu/studentemployment/jobs/360"
   },
-  "361": {
-    "category": "Computer/Technical",
-    "department": "Art",
-    "hours_per_week": "4-8",
-    "job_id": "361",
-    "starting_rate": "$16.70",
-    "term": "Current Academic Year",
-    "title": "Digital Studio Monitor",
-    "url": "https://toolbox.colgate.edu/studentemployment/jobs/361"
-  },
   "505": {
     "category": "Office/Administrative",
     "department": "Admission",
@@ -48,15 +48,5 @@
     "term": "Fall Only",
     "title": "Admission Office Assistant for Holidays and Breaks",
     "url": "https://toolbox.colgate.edu/studentemployment/jobs/505"
-  },
-  "903": {
-    "category": "Tutor",
-    "department": "Humanities",
-    "hours_per_week": "4",
-    "job_id": "903",
-    "starting_rate": "$16.70",
-    "term": "Current Academic Year",
-    "title": "Greek/Latin Tutor in CLASSICS",
-    "url": "https://toolbox.colgate.edu/studentemployment/jobs/903"
   }
 }
